@@ -379,7 +379,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For any queries regarding this project, please reach out via:
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [surajk86808@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/suraj-y-756a11233/]
 
 **⭐ If you find this project impressive, please consider starring the repository!**
